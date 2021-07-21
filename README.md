@@ -1,4 +1,4 @@
-Currently on _Shallow Be Thy Graves_, a rouguelike, soulslike, COD-Zombies clone
+Currently working on _Shallow Be Thy Grave_, a rouguelike, soulslike, COD-Zombies clone
 
 Might learn Rust in the future idk.
 
